@@ -1,1 +1,1 @@
-https://www.figma.com/design/rziS7kMYx1YM3QEfKTi0nl/Figma-basics?node-id=1669-162202&node-type=canvas&t=3PyjrMpYHggt2rv2-0
+https://www.figma.com/design/3kHcuu3c8fvhnA2q2wUwBM/1.Learning-landing-page?node-id=0-1&node-type=canvas&t=Ba1brAwfC8yihnV9-0
